@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say>Hi, I'm looking for a used 40-foot high cube delivered to zip 8 0 2 1 1.</Say>
+  <Pause length="20"/>
+  <Say>Can I pay on delivery with cash?</Say>
+  <Pause length="20"/>
+  <Say>What is the total price?</Say>
+  <Pause length="25"/>
+</Response>
